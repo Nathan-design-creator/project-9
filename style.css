@@ -1,0 +1,50 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(199, 122, 176);
+    padding: 10px;
+    box-shadow: 1px 1px 7px gray;
+}
+
+.about_us {
+    font-size: 22px;
+    text-decoration: solid;
+    text-indent: 20px;
+}
+
+.workshops h3 {
+    text-transform: uppercase;
+    text-shadow: 1px 1px 8px lightgreen;
+    color: rgb(131, 13, 36);
+    text-decoration: overline;
+}
+
+.workshops h3:hover {
+    text-shadow: 1px 1px 3px rgb(85, 38, 109);
+}
+
+.workshops li {
+    text-indent: 20px;
+    font-size: 20px;
+}
+
+.contact {
+    text-align: center;
+    padding: 10px;
+    color: rgb(85, 38, 109);
+    transform: rotate(10deg);
+}
+
+.contact a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #460638;
+}
+
+.contact a:hover {
+    text-shadow: 1px 1px 4px rgb(122, 30, 150);
+}
